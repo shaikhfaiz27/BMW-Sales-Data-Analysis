@@ -25,4 +25,4 @@ This project focuses on analyzing BMW vehicle sales data using Power BI to uncov
 - Price vs sales volume analysis
 - Fuel type and transmission impact on sales
 - Classification of sales performance
-- 
+
